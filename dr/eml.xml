@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:d="eml://ecoinformatics.org/dataset-2.1.0" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/terms/" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml-gbif-profile.xsd" system="ALA-Registry" scope="system" xml:lang="en">
+  <dataset>
+    <alternateIdentifier>f200a382-0ce0-39f2-8cb1-e16855d358b4</alternateIdentifier>
+    <alternateIdentifier>https://collections.ala.org.au/public/show/dr123</alternateIdentifier>
+    <title xmlns:lang="en">iziko South African Museum - Shark Collection (AfrOBIS)</title>
+    <creator>
+      <organizationName>Institute of Marine and Coastal Sciences, Rutgers University</organizationName>
+    </creator>
+    <metadataProvider>
+      <organizationName>Institute of Marine and Coastal Sciences, Rutgers University</organizationName>
+    </metadataProvider>
+    <associatedParty>
+      <organizationName>Atlas of Living Australia</organizationName>
+      <address>
+        <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+        <city>Canberra</city>
+        <administrativeArea>ACT</administrativeArea>
+        <postalCode>2601</postalCode>
+        <country>Australia</country>
+      </address>
+      <electronicMailAddress />
+      <role>distributor</role>
+    </associatedParty>
+    <pubDate>2011-07-05</pubDate>
+    <language>English</language>
+    <abstract>
+      <para>This shark database was obtained from Dr Leonard J. V. Compagno. It currently contains 14484 records of 46 families.</para>
+    </abstract>
+    <intellectualRights>
+      <para>Acknowledge the use of specific records from contributing databases in the form appearing in the 'Citation' field thereof (if any); and acknowledge the use of the OBIS facility. For information purposes, email to obissupport@marine.rutgers.edu the full citation of any publication made (printed or electronic) that cites OBIS or any constituent part. Recognize the limitations of data in OBIS see http://www.iobis.org/data/policy/disclaimer for details. iziko South African Museum - Shark Collection</para>
+    </intellectualRights>
+    <distribution>
+      <online>
+        <url function="information">https://collections.ala.org.au/public/show/dr123</url>
+      </online>
+    </distribution>
+    <coverage />
+    <purpose>
+      <para></para>
+    </purpose>
+    <contact>
+      <organizationName>Atlas of Living Australia</organizationName>
+      <address>
+        <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+        <city>Canberra</city>
+        <administrativeArea>ACT</administrativeArea>
+        <postalCode>2601</postalCode>
+        <country>Australia</country>
+      </address>
+      <electronicMailAddress />
+    </contact>
+    <methods />
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2011-07-05T04:22:07</dateStamp>
+        <hierarchyLevel>dataset</hierarchyLevel>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
