@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7addbb0-7576-4220-9903-e28e1707ba5c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Swagger API - User Guide.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dr/eml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dr/meta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dr/multimedia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dr/occurrence.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dr/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/CSV/images.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/CSV/occurrence.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/CSV/test-1000pagesize.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/CSV/test-blank-all-fieds.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/CSV/test-projectID-1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/JSON-Downloads/naturemapr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/JSON-Downloads/test-blank-all-fieds.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/JSON-Downloads/test-projectID-1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rawData/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/NatureTest.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/NatureTest.ipynb copy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/Test - Swagger API.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +66,7 @@
       <workItem from="1650434760776" duration="150000" />
       <workItem from="1650435309969" duration="1277000" />
       <workItem from="1650489236671" duration="33000" />
+      <workItem from="1650508755851" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="New code from Rose to extract Sightings">
       <created>1650434565275</created>
